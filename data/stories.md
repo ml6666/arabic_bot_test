@@ -1,0 +1,33 @@
+## general leave long path
+
+  - utter_greet
+  - utter_introduction
+* greet
+  - utter_greet
+* bot_challenge
+  - utter_introduction
+* leaves_general
+  - utter_leaves_general
+* annual_leave
+  - utter_annual_leave
+  - utter_user_id
+* official_holidays
+  - utter_official_holidays
+* unpaid_leave
+  - utter_unpaid_leave
+* emergency_leave
+  - utter_emergency_leave
+* sick_leave
+  - utter_sick_leave
+* special_leave
+  - utter_special_leave
+* working_hours
+  - utter_working_hours
+* wages
+  - utter_wages
+* affirm
+  - utter_happy
+* thanks
+  - utter_thanks
+* goodbye
+  - utter_goodbye
