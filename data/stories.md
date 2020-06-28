@@ -4,13 +4,18 @@
   - utter_introduction
 * greet
   - utter_greet
+* greet_ask
+  - utter_greet_answer
 * bot_challenge
   - utter_introduction
 * leaves_general
   - utter_leaves_general
 * annual_leave
   - utter_annual_leave
-  - utter_user_id
+* find_annual_leave_days_for_user
+  - utter_ask_user_civil_id
+* user_civil_id
+  - action_respond_to_user_civil_id
 * official_holidays
   - utter_official_holidays
 * unpaid_leave
